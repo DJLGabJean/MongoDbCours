@@ -1,0 +1,19 @@
+{
+    "id" : 105,
+    "nom" : "Tarantino",
+    "prenom" : "Quentin",
+    "annee" : "1963",
+    "film" : [{
+        "id" : 6,
+        "titre" : "Pulp Fiction",
+        "annee" : "1995",
+        "idRealisateur" : 105,
+        "role" : [{
+            "id" : 6,
+            "idArtiste" : 105,
+            "nomrole" : "Jimmy Dimmick"
+        }]
+    }]
+
+
+}
