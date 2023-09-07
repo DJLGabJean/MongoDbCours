@@ -1,0 +1,42 @@
+{
+
+"UE" : [
+    {
+    "id" : 11,
+    "titre" : "Java",
+    "inscrits" : [{
+        "etudiant" : "Barnabé Dubois",
+        "note" : 12
+        }]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+    "id" : 27,
+    "titre" : "Bases de données",
+    "inscrits" : [{
+        "etudiant" : "Barnabé Dubois",
+        "note" : 17
+    }, {
+        "etudiant" : "Vanessa Prado",
+        "note" : 10
+    }]
+}]
+
+
+
+
+
+
+
+
+    }
